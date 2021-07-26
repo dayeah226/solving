@@ -1,0 +1,5 @@
+A = input("")
+B = input("")
+num_a = int(A)
+num_b = int(B)
+print(num_a+num_b)
